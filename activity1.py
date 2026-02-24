@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 sns.set(style="ticks")
 
 # Load dataset
-weather = pd.read_csv('Test.csv')
+weather = pd.read_csv('test.csv')
 
 # Display first few rows
 print(weather.head())
